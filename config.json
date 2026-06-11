@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "personal-portfolio",
+      "title": "Building a Personal Portfolio Website",
+      "description": "Create a single-page portfolio website showcasing projects and skills using HTML and CSS with responsive design.",
+      "path": "assignments/personal-portfolio",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.html",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
